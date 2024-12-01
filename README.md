@@ -42,19 +42,18 @@ PenPulse is a secure and scalable cloud-based blogging platform hosted on Amazon
 - **Terraform**: Infrastructure as Code (IaC)
 
 ## Completed Milestones
-- **Requirements Gathering and Design**
-  - Finalized application requirements
-  - Designed AWS architecture
-  - Defined security requirements
-  - Created system architecture diagrams
-  - Conducted risk assessment and mitigation planning
-  - Set up EC2 instances, configured DynamoDB, implemented S3 buckets, established CloudWatch
-  - Deployed initial infrastructure using Terraform
-  - Developed core backend services using Python Flask
-  - Implemented user authentication and profile management
-  - Integrated DynamoDB and set up RESTful APIs
-  - Integration, load, stress, and security testing
-  - Final deployment and launch
+- Finalized application requirements
+- Designed AWS architecture
+- Defined security requirements
+- Created system architecture diagrams
+- Conducted risk assessment and mitigation planning
+- Set up EC2 instances, configured DynamoDB, implemented S3 buckets, established CloudWatch
+- Deployed initial infrastructure using Terraform
+- Developed core backend services using Python Flask
+- Implemented user authentication and profile management
+- Integrated DynamoDB and set up RESTful APIs
+- Integration, load, stress, and security testing
+- Final deployment and launch
 
 ## Challenges and Mitigations
 - **Integration Issues**: Resolved through thorough testing and AWS support
